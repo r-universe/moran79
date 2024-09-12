@@ -5,3 +5,6 @@
 [submodule "LDATree"]
 	path = LDATree
 	url = https://github.com/moran79/ldatree
+[submodule "folda"]
+	path = folda
+	url = https://github.com/moran79/folda
